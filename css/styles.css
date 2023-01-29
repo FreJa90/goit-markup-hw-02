@@ -140,6 +140,7 @@ body {
 
 .main-text {
   letter-spacing: 0.02em;
+  line-height: 1.5;
 }
 /* Section titles h2 */
 .section-title {
@@ -163,7 +164,7 @@ body {
 }
 
 .our-team-text {
-  line-height: 1, 5px;
+  line-height: 1.5px;
   letter-spacing: 0.02em;
 }
 /* footer */
